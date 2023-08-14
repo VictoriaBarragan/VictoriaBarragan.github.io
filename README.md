@@ -1,2 +1,2 @@
 # VictoriaBarragan.github.io
-Portafolio personal de proyectos de programación.
+Portafolio personal de proyectos de programación de software.
